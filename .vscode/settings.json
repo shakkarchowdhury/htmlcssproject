@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/newindex.html",
+    "liveServer.settings.port": 5501,
+    "git.ignoreLimitWarning": true
+}

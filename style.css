@@ -1,0 +1,63 @@
+.body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F6E9DE;
+    margin: 0;
+    padding: 20px;
+    color: #5A3E36;
+}
+        
+h1{ color: rgb(0, 0, 0);
+    text-align: justify; font-weight: bold;
+    text-family: "meriweather";
+    font-size: 30px;
+}
+
+
+.preparation-time{
+   background-color: rgba(222, 195, 218, 0.507);
+    text-align: justify;
+    font-weight: bold;
+    text-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.preparation-time
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: justify;
+}
+.Ingridiends{
+    background-color: rgba(209, 135, 100, 0.669);
+    text-align: justify;
+    font-weight: bold;
+    text-family: Arial, sans-serif;
+    font-size: 20px;
+}
+#omlete{
+    color: rgb(0, 0, 0);
+    text-align: justify; font-weight: bold;
+    text-family: "meriweather";
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    border-radius: 1cap;
+    img-align: "right";
+    padding: 10px;
+}
+#ins{
+   text-color:rgb(0, 0, 0);
+    text-align: justify;
+    font-weight: bold;
+    text-family: Arial, sans-serif;
+    font-size: 20px;  
+}
+
